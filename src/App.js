@@ -80,7 +80,7 @@ function App() {
       
       (<div className='Score-section'>
 
-          <h2>You Scored {score} out of {questions.length}</h2>
+          <h2>You Scored {score+1} out of {questions.length}</h2>
  
       </div>):
       
